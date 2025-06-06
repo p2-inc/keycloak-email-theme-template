@@ -9,7 +9,7 @@
     <java.version>21</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <main.java.package>io.phasetwo.keycloak.themes.examples</main.java.package>
-    <keycloak.version>25.0.1</keycloak.version>
+    <keycloak.version>26.2.5</keycloak.version>
   </properties>
 
   <scm>
